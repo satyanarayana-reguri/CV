@@ -1,0 +1,89 @@
+p {
+  line-height: 2;
+}
+
+.steps {
+  line-height: 2;
+}
+
+body {
+  background-color: black;
+}
+
+hr {
+  border-style: none;
+  border-width: 5px;
+  width: 4%;
+  border-top-style: dotted;
+  color: grey;
+}
+
+h3 {
+  color: #b80d57;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  color: #e93b81;
+}
+.intro{
+  width: 72%;
+  font-size: 1.25rem;
+}
+.Accy{
+  margin-right: 150px;
+
+
+}
+.points{
+  font-size: 1.25rem;
+  width: 75%;
+  line-height: 2;
+  color: #11cbd7;
+}
+.symbol{
+    margin-left: 120px;
+}
+.data{
+  color: #11cbd7;
+}
+.tech{
+  color: #3d84b8;
+  font-size: 1.5rem;
+}
+.work{
+  margin-left: 80px;
+}
+.initial{
+  margin-top: 50px;
+  margin-left: 100px;
+  margin-right: 270px;
+  background-color: white;
+
+
+}
+.Roles{
+  color: #29bb89;
+  font-size: 1.3rem;
+  line-height: 2;
+}
+.computer{
+  margin-left: 500px;
+}
+.Academics{
+  color: violet;
+  font-size: 1.5rem;
+  margin-top: 50px;
+}
+.heading{
+  background-color: white;
+  color: #8c0000;
+}
+.mobile{
+  color: powderblue;
+  font-size: 1.5rem;
+  margin-top: 100px;
+}
+.satya{
+    margin-top: 50px;
+}
